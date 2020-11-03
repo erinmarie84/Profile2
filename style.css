@@ -1,0 +1,77 @@
+header{
+    background-color: lightslategray;
+    text-align: center;
+    padding: 25px;
+    height: 100px;
+    border: 22px;
+    margin: 10px;
+    width: 100%;
+    font-family: 'Nova Mono', monos pace;
+    font-weight: bold;
+
+
+}
+
+.about-me{
+
+    text-align: center;
+    background-color: darkgray;
+    width: 100%;
+    margin: 10px;
+    padding: 25px;
+    border: 22px;
+    font-family: 'Nova Mono', monos pace;
+
+}
+
+
+.nav{
+
+    background-color: lightgray;
+    text-align: center;
+    margin: 10px;
+    padding: 25px;
+    border: 22px;
+    width: 100%;
+    
+}
+
+
+.portfolio{ 
+
+    text-align: center;
+    margin: 10px;
+    padding: 25px;
+    border: 22px;
+    
+
+}
+
+.port {
+
+    font-family: 'Nova Mono', monos pace;
+    text-align: center;
+}
+
+.form-group1{
+
+    width: 50%;
+    margin: 20px;
+    padding: 10px;
+
+}
+
+.form-group2{
+
+    width: 50%;
+    margin: 20px;
+    padding: 10px;
+}
+
+.form-group3{
+
+    width: 75%;
+    margin: 20px;
+    padding: 10px;
+}
+
